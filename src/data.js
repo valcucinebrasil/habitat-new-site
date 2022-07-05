@@ -2,7 +2,6 @@
 import {
   IoLogoYoutube,
   IoLogoFacebook,
-  IoLogoGithub,
   IoLogoInstagram,
   IoMdAddCircle,
   IoIosCheckmarkCircle,
@@ -287,10 +286,6 @@ export const footer = {
     },
     {
       icon: <IoLogoInstagram />,
-      href: '#',
-    },
-    {
-      icon: <IoLogoGithub />,
       href: '#',
     },
     {
