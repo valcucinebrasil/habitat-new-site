@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f60a1710.css",
+    "main.js": "/static/js/main.93233121.js",
+    "static/media/newsletter.png": "/static/media/newsletter.e0d7e80ac4d51255a2d3.png",
+    "static/media/lighting.png": "/static/media/lighting.ee2de766a91026be9134.png",
+    "static/media/features-2.png": "/static/media/features-2.f6d726c16a16951bfe30.png",
+    "static/media/artematica.jpg": "/static/media/artematica.80e324223be3a819f247.jpg",
+    "static/media/testimonial.png": "/static/media/testimonial.6bc2b826f264292aa5ab.png",
+    "static/media/cupboard.png": "/static/media/cupboard.fbac4e290f946d5e094f.png",
+    "static/media/features-1.png": "/static/media/features-1.fcaabd9feda97c4005aa.png",
+    "static/media/bed.png": "/static/media/bed.c7edf650c0c38a319b5d.png",
+    "static/media/chair.png": "/static/media/chair.698b5aa7506dad46ae16.png",
+    "static/media/product-10.png": "/static/media/product-10.c5ec2f5da9a0e5b83a4d.png",
+    "static/media/product-2.png": "/static/media/product-2.478798e88d77b77b18ae.png",
+    "static/media/product-4.png": "/static/media/product-4.e2e28d6f16d6205d8c3c.png",
+    "static/media/product-3.png": "/static/media/product-3.f7f05e1059234192e329.png",
+    "static/media/product-1.png": "/static/media/product-1.81415b4b2db67c206362.png",
+    "static/media/product-6.png": "/static/media/product-6.3b4bb863c7c4e93feac6.png",
+    "static/media/product-5.png": "/static/media/product-5.5dbb6e9b8088ee311423.png",
+    "static/media/product-8.png": "/static/media/product-8.7b2ec61f985cc403475b.png",
+    "static/media/avatar-3.png": "/static/media/avatar-3.6bcf16c72420da5a20d6.png",
+    "static/media/product-7.png": "/static/media/product-7.8303cc75d8385719633d.png",
+    "static/media/avatar-1.png": "/static/media/avatar-1.c93ab08d66d71a4bf358.png",
+    "static/media/avatar-2.png": "/static/media/avatar-2.3b8bbf6392ce8a1a418f.png",
+    "static/media/product-9.png": "/static/media/product-9.88d9b287cf8cdba409c3.png",
+    "index.html": "/index.html",
+    "main.f60a1710.css.map": "/static/css/main.f60a1710.css.map",
+    "main.93233121.js.map": "/static/js/main.93233121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f60a1710.css",
+    "static/js/main.93233121.js"
+  ]
+}
